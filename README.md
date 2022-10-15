@@ -2,7 +2,8 @@
 Studying rails 
 
 <p>Github Actions
-![CI/CD](https://github.com/fichimura/rails_study/actions/workflows/github-actions-config.yml/badge.svg)
+<a href = https://github.com/fichimura/rails_study/actions/workflows/github-actions-config.yml/badge.svg"> 
+  <img src="https://github.com/fichimura/rails_study/actions/workflows/github-actions-config.yml/badge.svg"/></a>
 </p>
 
 
