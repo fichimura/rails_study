@@ -2,7 +2,7 @@
 Studying rails 
 
 <p>Github Actions
-![example workflow](https://github.com/fichimura/docs/actions/workflows/github-actions-config.yml/badge.svg)
+(https://github.com/fichimura/docs/actions/workflows/github-actions-config.yml/badge.svg)
 </p>
 
 
