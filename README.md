@@ -2,7 +2,7 @@
 Studying rails 
 
 <p>Github Actions
-[CI/CD](https://github.com/fichimura/rails_study/actions/workflows/github-actions-config.yml/badge.svg)
+![CI/CD](https://github.com/fichimura/rails_study/actions/workflows/github-actions-config.yml/badge.svg)
 </p>
 
 
